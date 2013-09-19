@@ -1,0 +1,15 @@
+{
+   "name": "Son of Exercise 4",
+   "className": "CustomApp",
+   "server": "https://sandbox.rallydev.com",
+   "sdk": "2.0rc1",
+   "javascript": [
+      "App.js"
+   ],
+   "css": [
+      "app.css"
+   ],
+   "parents": [
+      "RallyCommunity/RallyCertifiedDeveloperExercise4"
+   ]
+}
